@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2016
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SG_SendWhatsApp", "SG_SendWhatsApp\SG_SendWhatsApp.vcxproj", "{64C16F4B-FE8B-43C6-8AF0-E0DAE7560143}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{64C16F4B-FE8B-43C6-8AF0-E0DAE7560143}.Debug|Win32.ActiveCfg = Debug|Win32
+		{64C16F4B-FE8B-43C6-8AF0-E0DAE7560143}.Debug|Win32.Build.0 = Debug|Win32
+		{64C16F4B-FE8B-43C6-8AF0-E0DAE7560143}.Release|Win32.ActiveCfg = Release|Win32
+		{64C16F4B-FE8B-43C6-8AF0-E0DAE7560143}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		VisualSVNWorkingCopyRoot = .
+		SolutionGuid = {A2420E0C-C873-441F-8E39-E0A0989439D4}
+	EndGlobalSection
+EndGlobal
